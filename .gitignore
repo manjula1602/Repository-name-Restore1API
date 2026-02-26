@@ -1,4 +1,12 @@
 bin/
 obj/
 .vscode/
-*.db
+*.dbbin/
+obj/
+.vs/
+*.user
+*.suo
+*.cache
+*.log
+appsettings.Development.json
+node_modules/
